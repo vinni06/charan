@@ -1,0 +1,35 @@
+.header {
+	height: 100px;
+	margin-left: 50px;
+	background-color: #2e279d;
+	color: #dff6f0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content {
+	height: 350px;
+	background-color: #fbe3b9;
+	margin-left: 50px;
+	margin-top: 30px;
+	align-items: center;
+	justify-content: center;
+}
+
+.form {
+	display: felx;
+	justify-content: center;
+/* 	border: 2px solid green; */
+	padding-left: 20%;
+	width: 500px;
+	margin-left: 20%;
+	margin-top: 30px;
+}
+
+.btnUser {
+	
+	width: 100px;
+	color: #dff6f0;
+}
+
